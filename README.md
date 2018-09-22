@@ -1,4 +1,4 @@
-# ServerSideAPI
+# RESTfulAPI
 
 an example RESTful api 
 
